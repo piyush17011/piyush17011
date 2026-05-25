@@ -34,10 +34,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=piyush17011&color=blue&style=flat" alt="profile views"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush17011&theme=react-dark&hide_border=true&area=true"/>
 </p>
 ---
 
