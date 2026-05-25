@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Piyush Bhalwalkar 👋</h1>
 
-<!--
-**piyush17011/piyush17011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Full Stack Developer · MERN Stack · Mumbai, India
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+   B.Tech IT @ SAKEC, Mumbai University · 9.3 CGPA
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Projects
+
+| Project | Description | Stack | Live |
+|--------|-------------|-------|------|
+| **ShuZ** | E-commerce with cart, auth, redis & payment gateway | MERN | [Live](https://shuz.onrender.com) |
+| **Ksaathi** | AI - based Farming Assistant | React, Socket.io | [Live](https://ksaathi.onrender.com) |
+| **RTSLD** | Real-time sign language detection | WebRTC, Python, KNN | [Live](https://rtsld.onrender.com) |
+| **Life in Weeks** | Visualize your life week by week | MERN | [Live](https://weeksoflife.onrender.com) |
+
+---
+
+### 🛠 Tech Stack
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=piyush17011&show_icons=true&theme=dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush17011&layout=compact&theme=dark" height="150"/>
+</p>
+
+---
+
+### 📬 Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://piyush17gui.netlify.app/)
