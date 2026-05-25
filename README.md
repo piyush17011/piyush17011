@@ -15,9 +15,12 @@
 | Project | Description | Stack | Live |
 |--------|-------------|-------|------|
 | **ShuZ** | E-commerce with cart, auth, redis & payment gateway | MERN | [Live](https://shuz.onrender.com) |
-| **Ksaathi** | AI - based Farming Assistant | React, Socket.io | [Live](https://ksaathi.onrender.com) |
-| **RTSLD** | Real-time sign language detection | WebRTC, Python, KNN | [Live](https://rtsld.onrender.com) |
+| **Ksaathi** | Freelanced - AI based Farming Assistant | React, Python, Gemini API | [Live](https://ksaathi.onrender.com) |
+| **Animator's Porfolio** | Freelanced - Portfolio for an animator | React, 3D Model | [Live](https://omkar-bane.vercel.app) |
+| **LockIn** | Gym Workout Tracker Anroid App | React Native, Firebase | [Live](app) |
 | **Life in Weeks** | Visualize your life week by week | MERN | [Live](https://weeksoflife.onrender.com) |
+| **RTSLD** | Real-time sign language detection | WebRTC, Python, KNN | [Live](https://rtsld.onrender.com) |
+
 
 ---
 
