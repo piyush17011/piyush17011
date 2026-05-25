@@ -37,10 +37,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://readme-stats-sigma-five.vercel.app/api?username=piyush17011&show_icons=true&theme=dark&hide_border=true" height="150"/>
-  <img src="https://readme-stats-sigma-five.vercel.app/api/top-langs/?username=piyush17011&layout=compact&theme=dark&hide_border=true" height="150"/>
+  <img src="https://komarev.com/ghpvc/?username=piyush17011&color=blue&style=flat" alt="profile views"/>
 </p>
-
 ---
 
 ### 📬 Connect
