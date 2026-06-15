@@ -1,53 +1,200 @@
-<h1 align="center">Hey, I'm Piyush Bhalwalkar 👋</h1>
+<h1 align="center">Hi 👋, I'm Piyush Bhalwalkar</h1>
+
+<h3 align="center">
+Full Stack Developer | MERN Stack Developer | Building Scalable Web Applications
+</h3>
 
 <p align="center">
-  Full Stack Developer · MERN Stack · Mumbai, India
+🎓 B.Tech Information Technology @ SAKEC, Mumbai University (CGPA: 9.3)
 </p>
 
 <p align="center">
-   B.Tech IT @ SAKEC, Mumbai University · 9.3 CGPA
+📍 Mumbai, India
 </p>
-
----
-
-### 🚀 Projects
-
-| Project | Description | Stack | Live |
-|--------|-------------|-------|------|
-| **ShuZ** | E-commerce with cart, auth, redis & payment gateway | MERN | [Live](https://shuz.onrender.com) |
-| **Ksaathi** | Freelanced - AI based Farming Assistant | React, Python, Gemini API | [Live](https://ksaathi.onrender.com) |
-| **Animator's Porfolio** | Freelanced - Portfolio for an animator | React, 3D Model Integration | [Live](https://omkar-bane.vercel.app) |
-| **LockIn** | Gym Workout Tracker Anroid App | React Native, Firebase | [Live](https://github.com/piyush17011/LockIn) |
-| **TraumaDump** | Share Life Experiences Anonymously | Next.js,Express.js,Google OAuth | [Live](https://traumadump.onrender.com) |
-| **Life in Weeks** | Visualize your life week by week | MERN | [Live](https://weeksoflife.onrender.com) |
-| **RTSLD** | Real-time sign language detection | WebRTC, Python, KNN | [Live](https://rtsld.onrender.com) |
-| **NPM Packages - piyushai** | Context File Generator to save Tokens while using AI | Javascript | [Live](https://www.npmjs.com/package/piyushai) |
-
-
-
----
-
-### 🛠 Tech Stack
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-
-
----
-
-### 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush17011&theme=react-dark&hide_border=true&area=true"/>
+<img src="https://komarev.com/ghpvc/?username=piyush17011&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/piyush17011?label=Followers&style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/piyush17011?affiliations=OWNER&style=for-the-badge"/>
 </p>
+
 ---
 
-### 📬 Connect
+## 🚀 About Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush-bhalwalkar)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://piyush17gui.netlify.app/)
+- 💻 Full Stack Developer specializing in MERN Stack
+- 🚀 Built multiple production-ready applications
+- 🌱 Currently exploring AI Integrations & System Design
+- 🎯 Passionate about solving real-world problems through technology
+- 🤝 Open to Freelance Projects & Collaborations
+- ⚡ Love building SaaS products and automation systems
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 ShuZ
+Modern E-commerce Platform with Authentication, Cart Management, Redis Caching and Payment Gateway.
+
+🔗 https://shuz.onrender.com
+
+**Tech:** MERN • Redis • JWT • Razorpay
+
+---
+
+### 🌾 Ksaathi
+AI Powered Farming Assistant helping farmers make better decisions.
+
+🔗 https://ksaathi.onrender.com
+
+**Tech:** React • Python • Gemini API
+
+---
+
+### 💪 LockIn
+Gym Workout Tracker Mobile App.
+
+🔗 https://github.com/piyush17011/LockIn
+
+**Tech:** React Native • Firebase
+
+---
+
+### 🎭 Animator Portfolio
+Professional portfolio website with 3D Model Integration.
+
+🔗 https://omkar-bane.vercel.app
+
+**Tech:** React • Three.js
+
+---
+
+### 🫂 TraumaDump
+Anonymous Experience Sharing Platform.
+
+🔗 https://traumadump.onrender.com
+
+**Tech:** Next.js • Express.js • Google OAuth
+
+---
+
+### 📅 Life In Weeks
+Visualize your entire life week-by-week.
+
+🔗 https://weeksoflife.onrender.com
+
+**Tech:** MERN Stack
+
+---
+
+### ✋ RTSLD
+Real-Time Sign Language Detection Platform.
+
+🔗 https://rtsld.onrender.com
+
+**Tech:** Python • KNN • WebRTC
+
+---
+
+### 📦 piyushai
+NPM Package for Context File Generation to optimize AI token usage.
+
+🔗 https://www.npmjs.com/package/piyushai
+
+**Tech:** JavaScript • NPM
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=piyush17011&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush17011&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush17011&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush17011&theme=react-dark&hide_border=true&area=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=piyush17011&theme=onedark&column=7"/>
+</p>
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/piyush-bhalwalkar">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://piyush17gui.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⭐ If you like my projects, consider giving them a star!
+</p>
