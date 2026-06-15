@@ -164,13 +164,6 @@ NPM Package for Context File Generation to optimize AI token usage.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=piyush17011&theme=onedark&column=7"/>
-</p>
-
----
 
 ## 📬 Connect With Me
 
