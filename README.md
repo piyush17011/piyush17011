@@ -24,10 +24,9 @@ Full Stack Developer | MERN Stack Developer | Building Scalable Web Applications
 
 - 💻 Full Stack Developer specializing in MERN Stack
 - 🚀 Built multiple production-ready applications
-- 🌱 Currently exploring AI Integrations & System Design
 - 🎯 Passionate about solving real-world problems through technology
 - 🤝 Open to Freelance Projects & Collaborations
-- ⚡ Love building SaaS products and automation systems
+- ⚡ Love building SaaS products
 
 ---
 
@@ -36,8 +35,6 @@ Full Stack Developer | MERN Stack Developer | Building Scalable Web Applications
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
 
